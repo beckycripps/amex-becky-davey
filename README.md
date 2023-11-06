@@ -1,5 +1,3 @@
-Certainly! Here's the content translated into Markdown format:
-
 # Gift Card API
 
 This RESTful API allows you to manage gift cards. It provides endpoints to create, retrieve, and delete gift cards, as well as handle exceptions for resource not found and server errors.
